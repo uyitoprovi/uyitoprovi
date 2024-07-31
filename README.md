@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @uyitoprovi
+- 👀 I’m interested in Developing software(front-end and back-end)
+- 🌱 I’m currently learning in KL university
+- 💞️ I’m looking to collaborate on some Project
+- 📫 How to reach me uyitoprovi@gmail.com
